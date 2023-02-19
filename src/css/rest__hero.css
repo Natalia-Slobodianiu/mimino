@@ -1,0 +1,11 @@
+.rest__title {
+    font-size: 40px;
+    color: brown;
+}
+
+.rest__text {
+    background-color: lightpink;
+    color: blueviolet;
+    margin-bottom: 30px;
+    width: 500px;
+}
